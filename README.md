@@ -16,7 +16,11 @@ This Django web application allows users to upload images of urine strips and au
     * OpenCV
 
 ## Workflow
-![1](https://github.com/abhinavs1920/Urine-Strip-Analyzer/assets/113504774/868e2d1c-44ab-4f80-9658-6e26b83290af)
-![2](https://github.com/abhinavs1920/Urine-Strip-Analyzer/assets/113504774/c4247310-ab15-41d9-a3b1-7d9e40e24a7a)
-![4](https://github.com/abhinavs1920/Urine-Strip-Analyzer/assets/113504774/d3826198-cc25-41e6-86a6-b687099b5b9e)
+
+![1](https://github.com/abhinavs1920/Strip-Analyzer-OpenCV/assets/113504774/684fc0dd-6c56-4c18-aa24-90e8e1c1a4ae)
+
+![2](https://github.com/abhinavs1920/Strip-Analyzer-OpenCV/assets/113504774/61f5040d-410f-44e1-bade-e1de43160fb7)
+
+![4](https://github.com/abhinavs1920/Strip-Analyzer-OpenCV/assets/113504774/f5eb773f-b7ab-454a-8f54-d0c7036d3c0a)
+
 
